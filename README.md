@@ -15,7 +15,7 @@
 3. you can go to ```<yourdirectory>/plugins/OpenTerrainGenerator/worlds/otg-the_end/```, and can find ```WorldConfig.ini```, ```WorldBiomes``` , etc...
 4. If you want, rename ```otg-the_end``` directory name.
 5. Start bukkit/spigot server
-6. ```mv create otg-the_end the_end -g OpenTerrainGenerator```
+6. ```mv create otg-the_end end -g OpenTerrainGenerator```
 7. In game, type ```/mvtp otg-the_end```
 
 ## world screenshots
