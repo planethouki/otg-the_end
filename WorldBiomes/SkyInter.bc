@@ -20,7 +20,9 @@ BiomeSize: 4
 
 BiomeRarity: 100
 
-BiomeColor: #8080FF
+BiomeColor: #6767FF
+
+ReplaceToBiomeName: Sky
 
 ####################
 # Isle biomes only #
@@ -53,7 +55,7 @@ BiomeHeight: 0.1
 
 BiomeVolatility: 0.2
 
-SmoothRadius: 2
+SmoothRadius: 10
 
 MaxAverageHeight: 0.0
 
@@ -159,7 +161,6 @@ FoliageColorIsMultiplier: true
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-CustomObject(endship2)
 CustomObject(UseWorld)
 
 #######################################################################

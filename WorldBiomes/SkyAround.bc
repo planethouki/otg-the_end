@@ -20,7 +20,9 @@ BiomeSize: 4
 
 BiomeRarity: 100
 
-BiomeColor: #8080FF
+BiomeColor: #9A9AFF
+
+ReplaceToBiomeName: Sky
 
 ####################
 # Isle biomes only #
