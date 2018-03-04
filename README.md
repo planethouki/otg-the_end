@@ -4,6 +4,12 @@
 * otg-the_end generates THE END style world.
 * Enjoing the Minecraft.
 
+## Feature
+* Bedrock
+* Caldera style
+* Endship appear over 1000 blocks away, but shulker do not appear
+* No Endcrystals
+
 ## Dependence
 * OpenTerrainGenerator
 * Multiverse-Core (recommended)
